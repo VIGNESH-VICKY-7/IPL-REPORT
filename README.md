@@ -33,3 +33,6 @@ DAX (Data Analysis Expressions)
 
 📸 Dashboard Preview
 <img width="1303" height="657" alt="pr4" src="https://github.com/user-attachments/assets/50df40cd-6c8d-44ce-bfb2-eacfb9a88089" />
+<img width="1317" height="663" alt="pr3" src="https://github.com/user-attachments/assets/79404bda-b126-4f6f-966b-45814ef005b1" /><img width="1322" height="661" alt="pr2" src="https://github.com/user-attachments/assets/430c5346-8139-43c7-b192-1c3cd5314e46" /><img width="1354" height="674" alt="pr" src="https://github.com/user-attachments/assets/8ee45d75-54da-4c9a-ba72-53f67da6c7fd" />
+
+
